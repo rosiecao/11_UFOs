@@ -16,6 +16,7 @@ The request from a client was to display a table organizing UFO data stored as a
 # Results: 
 
 Welcome to UFO Sightings!
+
 ![image](https://user-images.githubusercontent.com/89699219/140629728-86c9c77b-37fd-49eb-99b1-451240280874.png)
 
 How the filters appear when first landing on the page:
